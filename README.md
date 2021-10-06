@@ -1,2 +1,2 @@
-# amazon-aws-basics
-amazon aws basics 
+# Amazon-aws-basics
+Amazon aws basics 
